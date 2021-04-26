@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=D0303C&text=Jang%MK&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=slice&color=D0303C&text=Jang%MK&fontSize=40&fontColor=FFFFFF&fontAlign=85&fontAlignY=35&rotate=7)
 
 ## I CAN
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -41,5 +41,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+
+## My SNS
+<a href="https://www.instagram.com/jangmk97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=134A9D)
