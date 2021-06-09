@@ -48,8 +48,4 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
 
-
-## My SNS
-<a href="https://www.instagram.com/jangmk97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=134A9D)
