@@ -2,7 +2,9 @@
 
 ---
 
-[기술블로그](https://blog.naver.com/wkdrn970)
+[네이버블로그](https://blog.naver.com/wkdrn970)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokkabei97)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
