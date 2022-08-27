@@ -2,9 +2,9 @@
 
 ---
 
-[네이버블로그](https://blog.naver.com/wkdrn970)
+[기술 블로그](https://velog.io/@dokkabei97)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokkabei97&layout=compact&exclude_repo=idleProject&hide=css,html,mustache&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokkabei97&layout=compact&exclude_repo=idleProject&hide=css,html,mustache&theme,python=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
